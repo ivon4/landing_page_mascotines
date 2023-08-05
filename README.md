@@ -34,12 +34,16 @@ curso de Web Fullstack de Factoria F5.
   <img width="262" alt="Captura de pantalla 2023-06-14 231006" src="https://github.com/ivon4/landing_page_mascotines/assets/127293745/9b6c87eb-5fa3-43ad-a0d4-c8ae191ed0e9">
 
 
-  ## Participantes
- Alejandro, Anthony, Eduardo, Ivon, Patricia y Sabina.  
+  
  ## Desarrolladores
 [Ivon](https://github.com/ivon4)
+
 [Alejandro](https://github.com/Bangarrett)
+
 [Anthony](https://github.com/anthonyysalazar)
+
 [Eduardo](https://github.com/educarmas)
+
 [Patricia](https://github.com/pgmascarini)
+
 [Sabina](https://github.com/Sjuniperus)
