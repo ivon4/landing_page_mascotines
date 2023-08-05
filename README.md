@@ -34,4 +34,10 @@ curso de Web Fullstack de Factoria F5.
   
   ## Participantes
  Alejandro, Anthony, Eduardo, Ivon, Patricia y Sabina.  
- 
+ ## Desarrolladores
+[Ivon](https://github.com/ivon4)
+[Alejandro](https://github.com/Bangarrett)
+[Anthony](https://github.com/anthonyysalazar)
+[Eduardo](https://github.com/educarmas)
+[Patricia](https://github.com/pgmascarini)
+[Sabina](https://github.com/Sjuniperus)
