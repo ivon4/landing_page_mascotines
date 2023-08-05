@@ -27,11 +27,13 @@ curso de Web Fullstack de Factoria F5.
   ## links
  - https://www.figma.com/file/S3H4VcRzwk2Afjb1rBIjWE/Layout?t=Y80WlLZavjUx01eW-0
  - https://trello.com/b/At2L8wy6/schnauzers
+   
   ## Imagen
-  <img width="255" alt="Captura de pantalla 2023-06-14 230951" src="https://github.com/ivon4/landing_page/assets/127293745/500c99c9-3afb-4950-8a0f-a80dbd4bb6c4">
-<img width="262" alt="Captura de pantalla 2023-06-14 231006" src="https://github.com/ivon4/landing_page/assets/127293745/81a370e1-4fba-4ff3-a83c-07d80e49c662">
  
-  
+  <img width="255" alt="Captura de pantalla 2023-06-14 230951" src="https://github.com/ivon4/landing_page_mascotines/assets/127293745/5f16b7b0-bd63-49b9-87e8-e2d994fa90db">
+  <img width="262" alt="Captura de pantalla 2023-06-14 231006" src="https://github.com/ivon4/landing_page_mascotines/assets/127293745/9b6c87eb-5fa3-43ad-a0d4-c8ae191ed0e9">
+
+
   ## Participantes
  Alejandro, Anthony, Eduardo, Ivon, Patricia y Sabina.  
  ## Desarrolladores
